@@ -1,0 +1,1 @@
+MYSQL_CONTAINER: docker run --name kotlin-mysql -p 3306:3306 -e MYSQL_ROOT_PASSWORD=pass -d mysql
