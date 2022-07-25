@@ -5,4 +5,4 @@ pluginManagement {
 		gradlePluginPortal()
 	}
 }
-rootProject.name = "thenewbostonn"
+rootProject.name = "learningkotlin"
